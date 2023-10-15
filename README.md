@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manikandann95
 - 👀 I’m interested in DevOps,...
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning Python interact with OS.
 - 💞️ I’m looking to collaborate on learning DevOps...
 - 📫 How to reach me 
 
